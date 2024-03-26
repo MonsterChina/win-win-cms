@@ -1,0 +1,20 @@
+{
+  "name": "win-win-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonsterChina/win-win-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonsterChina/win-win-cms/issues"
+  },
+  "homepage": "https://github.com/MonsterChina/win-win-cms#readme"
+}
